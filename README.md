@@ -70,6 +70,7 @@ The project is based on an application of appreciating your colleague/friend/col
     Saber mais: www.jwt.io
 
  * MD5 Hash Generator - Site gerador de Hash/tokens
+    https://www.md5hashgenerator.com/
  
 
 
@@ -140,11 +141,11 @@ yarn add cors (library needed when front-end makes API requests)
 yarn add @types/cors -D
 
 
-General Tips 💡
+## GENERAL TIPS
 Useful commands:
-yarn tsc (converte ts para js)
+yarn tsc (converts ts to js)
 
-yarn dev (utilizado para rodar o projeto após a instalação do ts-node-dev)
+yarn dev (used to run the server after ts-node-dev instalation)
 
 
 Configurations below in package.json is used to transform the code js in code ts using te ts-node-dev in a automatic way.
